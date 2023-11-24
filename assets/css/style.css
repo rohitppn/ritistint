@@ -62,7 +62,7 @@ h6,
 }
 
 a {
-    color: #03a84e;
+    color: #0342a8;
     text-decoration: none;
     transition: all 0.3s ease-out;
     -webkit-transition: all 0.3s ease-out;
@@ -325,8 +325,8 @@ table p {
 /*-------- Button Style Css --------*/
 
 .btn-theme {
-    background-color: #03a84e;
-    border: 1px solid #03a84e;
+    background-color: #00baff;
+    border: 1px solid #00baff;
     border-radius: 5px;
     color: #fff;
     display: inline-block;
@@ -353,19 +353,19 @@ table p {
 .btn-theme.btn-white {
     background-color: #fff;
     border: 1px solid rgba(3, 168, 78, 0.18);
-    color: #03a84e;
+    color: #00baff;
 }
 
 .btn-theme.btn-white:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
 .btn-theme:hover {
     background-color: #fff;
-    border: 1px solid #03a84e;
-    color: #03a84e;
+    border: 1px solid #00baff;
+    color: #00baff;
 }
 
 /*-------- Z Index Style Css --------*/
@@ -442,7 +442,7 @@ table p {
     -webkit-box-shadow: 0 0 8px 1px rgba(0, 0, 0, 0.2);
     box-shadow: 0 0 8px 1px rgba(0, 0, 0, 0.2);
     bottom: -60px;
-    background-color: #03a84e;
+    background-color: #00baff;
     color: #fff;
     position: fixed;
     right: 30px;
@@ -525,12 +525,12 @@ table p {
 
 .main-menu>li:hover>a,
 .main-menu>li.active>a {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .main-menu>li:hover>a:before,
 .main-menu>li.active>a:before {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .has-submenu {
@@ -708,7 +708,7 @@ table p {
     display: block;
     width: 100%;
     height: 60px;
-    background-color: #03a84e;
+    background-color: #00baff;
     opacity: 1;
     border-radius: 0;
     color: #fff;
@@ -780,7 +780,7 @@ table p {
 }
 
 .mobile-menu-items ul li a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .mobile-menu-items ul li .mobile-menu-expand {
@@ -816,16 +816,16 @@ table p {
 }
 
 .mobile-menu-items ul li.active-expand>.mobile-menu-expand::before {
-    background-color: #03a84e;
+    background-color: #00baff;
 }
 
 .mobile-menu-items ul li.active-expand>.mobile-menu-expand::after {
-    background-color: #03a84e;
+    background-color: #00baff;
     height: 0;
 }
 
 .mobile-menu-items ul li.active-expand a {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .mobile-menu-items ul li.active-expand ul li a {
@@ -841,7 +841,7 @@ table p {
 }
 
 .mobile-menu-items ul li ul li a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .mobile-menu-items ul li ul li ul li a {
@@ -911,7 +911,7 @@ table p {
 }
 
 .header-area.sticky-header.sticky {
-    background-color: #03a84e;
+    background-color: #00baff;
     -webkit-box-shadow: 0px 10px 60px -30px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 10px 60px -30px rgba(0, 0, 0, 0.1);
     position: fixed !important;
@@ -981,11 +981,11 @@ table p {
 }
 
 .header-navigation-area .main-menu.nav>li.active>a {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .header-navigation-area .main-menu.nav>li.active>a:before {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .header-navigation-area .main-menu.nav>li>a {
@@ -1031,7 +1031,7 @@ table p {
 }
 
 .header-navigation-area .main-menu.nav>li>a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .header-navigation-area .main-menu.nav>li>a:hover:after {
@@ -1066,11 +1066,11 @@ table p {
 }
 
 .header-navigation-area .main-menu.nav .has-submenu:hover a {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .header-navigation-area .main-menu.nav .has-submenu:hover a:before {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .header-navigation-area .main-menu.nav .has-submenu:hover a:after {
@@ -1106,11 +1106,11 @@ table p {
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li.active a {
-    color: #03a84e !important;
+    color: #00baff !important;
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li.active:after {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li a {
@@ -1127,7 +1127,7 @@ table p {
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li a:hover {
-    color: #03a84e;
+    color: #00baff;
     background-color: rgba(173, 181, 189, 0.15);
 }
 
@@ -1155,7 +1155,7 @@ table p {
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li.has-submenu.active:after {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li.has-submenu .submenu-nav {
@@ -1191,24 +1191,24 @@ table p {
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li.has-submenu .submenu-nav>li>a:hover {
-    color: #03a84e !important;
+    color: #00baff !important;
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li.has-submenu .submenu-nav>li.active>a {
-    color: #03a84e !important;
+    color: #00baff !important;
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li.has-submenu:hover a {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .header-navigation-area .main-menu.nav .has-submenu .submenu-nav>li.has-submenu:hover:after {
-    color: #03a84e !important;
+    color: #00baff !important;
 }
 
 .btn-menu {
     color: #fff;
-    background-color: #03a84e;
+    background-color: #00baff;
     border: none;
     border-radius: 5px;
     display: none;
@@ -1289,7 +1289,7 @@ table p {
 }
 
 .header-action-area .btn-registration {
-    background-color: #03a84e;
+    background-color: #00baff;
     border-radius: 5px;
     color: #fff;
     display: inline-block;
@@ -1432,7 +1432,7 @@ table p {
 }
 
 .home-slider-container .slider-content-area .slider-content .title span {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .home-slider-container .slider-content-area .slider-content .desc {
@@ -1720,7 +1720,7 @@ table p {
 }
 
 .job-category-item:hover {
-    background-color: #03a84e;
+    background-color: #00baff;
 }
 
 .job-category-item:hover .title a {
@@ -1846,7 +1846,7 @@ table p {
 }
 
 .recent-job-item .company-info .name a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .recent-job-item .company-info .address {
@@ -1881,11 +1881,11 @@ table p {
 }
 
 .recent-job-item .main-content .title a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .recent-job-item .main-content .work-type {
-    color: #03a84e;
+    color: #00baff;
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 15px;
@@ -2076,7 +2076,7 @@ table p {
 }
 
 .job-details-info .content .sub-title {
-    color: #03a84e;
+    color: #00baff;
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 12px;
@@ -2230,7 +2230,7 @@ table p {
 }
 
 .job-details-item .btn-apply-now {
-    background-color: #03a84e;
+    background-color: #00baff;
     color: #fff;
     display: inline-block;
     font-size: 17px;
@@ -2320,7 +2320,7 @@ table p {
     align-items: center;
     background-color: #f4f7f7;
     border-radius: 5px;
-    color: #03a84e;
+    color: #00baff;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -2454,11 +2454,11 @@ table p {
 }
 
 .working-process-item:hover .icon-box .inner {
-    background-color: #03a84e;
+    background-color: #00baff;
 }
 
 .working-process-item:hover .icon-box .inner:before {
-    border-color: #03a84e;
+    border-color: #00baff;
 }
 
 .working-process-item:hover .icon-box .inner .icon-hover {
@@ -2685,7 +2685,7 @@ table p {
 }
 
 .login-register-form-wrap .form-title .title:before {
-    background-color: #03a84e;
+    background-color: #00baff;
     content: "";
     height: 3px;
     width: 50px;
@@ -2702,7 +2702,7 @@ table p {
 }
 
 .sec-overlay-theme:before {
-    background-color: #03a84e;
+    background-color: #00baff;
     content: "";
     left: 0;
     height: 100%;
@@ -2729,7 +2729,7 @@ table p {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: #03a84e;
+    background-color: #00baff;
     height: 76px;
     border-radius: 50%;
     display: -webkit-box;
@@ -2755,7 +2755,7 @@ table p {
 }
 
 .play-video-btn .video-popup:before {
-    background-color: #03a84e;
+    background-color: #00baff;
     border-radius: 50%;
     content: "";
     height: 100%;
@@ -3006,8 +3006,8 @@ table p {
 
 .brand-swiper-btn-prev:hover,
 .brand-swiper-btn-next:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -3100,7 +3100,7 @@ table p {
 }
 
 .about-content .sub-title {
-    color: #03a84e;
+    color: #00baff;
     font-weight: 500;
     font-size: 18px;
     margin-bottom: 17px;
@@ -3218,7 +3218,7 @@ table p {
 }
 
 .member-join-content .join-now-btn {
-    background-color: #03a84e;
+    background-color: #00baff;
     color: #fff;
     display: inline-block;
     font-size: 15px;
@@ -3345,11 +3345,11 @@ table p {
 }
 
 .team-item .content .title a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .team-item .content .sub-title {
-    color: #03a84e;
+    color: #00baff;
     font-size: 15px;
     font-weight: 400;
     margin-bottom: 18px;
@@ -3488,7 +3488,7 @@ table p {
 }
 
 .team-details-info .content .sub-title {
-    color: #03a84e;
+    color: #00baff;
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 12px;
@@ -3576,8 +3576,8 @@ table p {
 }
 
 .team-details-btn .btn-theme.btn-light:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -3692,7 +3692,7 @@ table p {
 }
 
 .candidate-details-content .content-item:before {
-    background-color: #03a84e;
+    background-color: #00baff;
     bottom: 0;
     content: "";
     height: 0;
@@ -3752,7 +3752,7 @@ table p {
 }
 
 .candidate-details-content .content-item .sub-title {
-    color: #03a84e;
+    color: #00baff;
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 15px;
@@ -3926,7 +3926,7 @@ table p {
 }
 
 .employers-details-info .content .sub-title {
-    color: #03a84e;
+    color: #00baff;
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 12px;
@@ -3986,8 +3986,8 @@ table p {
 
 .employers-details-info .btn-theme.btn-white:hover {
     color: #fff;
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
 }
 
 .employers-details-info .btn-theme+.btn-theme {
@@ -4052,7 +4052,7 @@ table p {
 }
 
 .employers-counter .counter-item .title {
-    color: #03a84e;
+    color: #00baff;
     font-weight: 400;
     font-size: 15px;
     margin-bottom: 0;
@@ -4081,7 +4081,7 @@ table p {
 }
 
 .employers-counter .counter-item:hover {
-    background-color: #03a84e;
+    background-color: #00baff;
 }
 
 .employers-counter .counter-item:hover .counter {
@@ -4233,7 +4233,7 @@ table p {
 }
 
 .testimonial-item .testi-author .testi-info .designation {
-    color: #03a84e;
+    color: #00baff;
     font-size: 15px;
     display: block;
     line-height: 1;
@@ -4299,7 +4299,7 @@ table p {
 }
 
 .testimonial-item:hover {
-    background-color: #03a84e;
+    background-color: #00baff;
 }
 
 .testimonial-item:hover .testi-author .testi-info .name {
@@ -4338,7 +4338,7 @@ table p {
 }
 
 .testi-slider-container .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-    background-color: #03a84e;
+    background-color: #00baff;
 }
 
 .testi-slider-container .swiper-pagination .swiper-pagination-bullet+.swiper-pagination-bullet {
@@ -4417,7 +4417,7 @@ table p {
 }
 
 .funfact-item .counter-title {
-    color: #03a84e;
+    color: #00baff;
     font-size: 15.97px;
     font-weight: 500;
     transition: all 0.3s ease-out;
@@ -4434,7 +4434,7 @@ table p {
 }
 
 .funfact-item:hover .counter-number {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .funfact-item:hover .counter-title {
@@ -4526,7 +4526,7 @@ table p {
 
 #contact-form .form-control:active,
 #contact-form .form-control:focus {
-    border-color: #03a84e;
+    border-color: #00baff;
 }
 
 #contact-form textarea.form-control {
@@ -4636,7 +4636,7 @@ table p {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: #03a84e;
+    background-color: #00baff;
     border-radius: 5px;
     border: none;
     -webkit-box-shadow: none;
@@ -4798,7 +4798,7 @@ table p {
 
 .login-register-form .form-control:active,
 .login-register-form .form-control:focus {
-    border-color: #03a84e;
+    border-color: #00baff;
 }
 
 .login-register-form .remember-forgot-info {
@@ -4852,12 +4852,12 @@ table p {
 }
 
 .login-register-form .remember .form-check-input:checked {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
 }
 
 .login-register-form .remember .form-check-input:checked+.form-check-label {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .login-register-form .remember .form-check-label {
@@ -4881,7 +4881,7 @@ table p {
 }
 
 .login-register-form .remember .form-check-label:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 @media only screen and (max-width: 479.98px) {
@@ -4978,8 +4978,8 @@ table p {
 }
 
 .register-form-wrap .nav .nav-link.active {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -4990,8 +4990,8 @@ table p {
 }
 
 .register-form-wrap .nav .nav-link:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -5109,7 +5109,7 @@ table p {
 }
 
 .breadcrumb-area .breadcrumb li {
-    color: #03a84e;
+    color: #00baff;
     font-size: 16px;
     font-weight: 400;
     line-height: 1;
@@ -5128,7 +5128,7 @@ table p {
 }
 
 .breadcrumb-area .breadcrumb li a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .breadcrumb-area .breadcrumb .breadcrumb-sep {
@@ -5239,11 +5239,11 @@ table p {
 }
 
 .blog-sidebar .widget-search-box .form-input-item input:focus {
-    border: 1px solid #03a84e;
+    border: 1px solid #00baff;
 }
 
 .blog-sidebar .widget-search-box .form-input-item button {
-    background-color: #03a84e;
+    background-color: #00baff;
     border: none;
     border-radius: 5px;
     color: #fff;
@@ -5312,7 +5312,7 @@ table p {
 }
 
 .blog-sidebar .widget-categories ul li a:hover {
-    background-color: #03a84e;
+    background-color: #00baff;
     color: #fff;
 }
 
@@ -5395,7 +5395,7 @@ table p {
 }
 
 .blog-sidebar .widget-blog-post .content h4 a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .blog-sidebar .widget-blog-post .content .meta {
@@ -5403,7 +5403,7 @@ table p {
 }
 
 .blog-sidebar .widget-blog-post .content .meta .post-date {
-    color: #03a84e;
+    color: #00baff;
     font-size: 14px;
     line-height: 1;
 }
@@ -5491,7 +5491,7 @@ table p {
 }
 
 .blog-sidebar .widget-tags ul li a:hover {
-    background-color: #03a84e;
+    background-color: #00baff;
     color: #fff;
 }
 
@@ -5568,7 +5568,7 @@ table p {
 }
 
 .job-sidebar .widget-title .title:before {
-    background-color: #03a84e;
+    background-color: #00baff;
     content: "";
     height: 3px;
     position: absolute;
@@ -5646,8 +5646,8 @@ table p {
 }
 
 .job-sidebar .social-icons a:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -5666,8 +5666,8 @@ table p {
 }
 
 .job-sidebar .widget-tag-list a:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -5724,7 +5724,7 @@ table p {
 }
 
 .team-sidebar .widget-title .title:before {
-    background-color: #03a84e;
+    background-color: #00baff;
     content: "";
     height: 3px;
     position: absolute;
@@ -5808,8 +5808,8 @@ table p {
 }
 
 .team-sidebar .social-icons a:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -5870,7 +5870,7 @@ table p {
 }
 
 .employers-sidebar .widget-title .title:before {
-    background-color: #03a84e;
+    background-color: #00baff;
     content: "";
     height: 3px;
     position: absolute;
@@ -5969,8 +5969,8 @@ table p {
 }
 
 .employers-sidebar .social-icons a:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -6033,8 +6033,8 @@ table p {
 }
 
 .pagination-area .page-numbers li .page-number:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -6043,8 +6043,8 @@ table p {
 }
 
 .pagination-area .page-numbers li .page-number.active {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -6344,7 +6344,7 @@ table p {
 }
 
 .post-item .content .author a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .post-item .content .title {
@@ -6376,7 +6376,7 @@ table p {
 }
 
 .post-item .content .title a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .post-item .content p {
@@ -6457,7 +6457,7 @@ table p {
 }
 
 .post-item2 .content .author a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .post-item2 .content .title {
@@ -6483,7 +6483,7 @@ table p {
 }
 
 .post-item2 .content .title a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .post-item2 .content .meta {
@@ -6594,8 +6594,8 @@ table p {
 
 .swiper-btn-wrap .related-post-swiper-btn-prev:hover,
 .swiper-btn-wrap .related-post-swiper-btn-next:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -6645,7 +6645,7 @@ table p {
 }
 
 .post-details-info .meta .author a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .post-details-info .meta .dots {
@@ -6746,7 +6746,7 @@ table p {
 }
 
 .post-details-info .widget-tags ul li a:hover {
-    background-color: #03a84e;
+    background-color: #00baff;
     color: #fff;
 }
 
@@ -6942,12 +6942,12 @@ table p {
 }
 
 .post-details-content .widget-social-icons a:hover {
-    background-color: #03a84e;
+    background-color: #00baff;
     color: #fff;
 }
 
 .blockquote-item {
-    background-color: #03a84e;
+    background-color: #00baff;
     border-radius: 5px;
     padding: 69px 40px 65px;
     margin-top: 49px;
@@ -7027,7 +7027,7 @@ table p {
 .post-details-content-list .list-style li a {
     border: 1px solid #ededed;
     border-radius: 5px;
-    color: #03a84e;
+    color: #00baff;
     display: block;
     font-size: 16px;
     text-shadow: 0px 0px 100px rgba(0, 0, 0, 0.1);
@@ -7190,7 +7190,7 @@ table p {
 }
 
 .single-comment .author-info .author-details ul li span {
-    color: #03a84e;
+    color: #00baff;
     margin-left: 0;
 }
 
@@ -7250,7 +7250,7 @@ table p {
 }
 
 .single-comment .btn-reply:hover {
-    background-color: #03a84e;
+    background-color: #00baff;
     color: #fff;
 }
 
@@ -7425,7 +7425,7 @@ table p {
 }
 
 .contact-info-wrap .info-item .info p a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .contact-form {
@@ -7469,7 +7469,7 @@ table p {
 }
 
 .contact-form .contact-form-title:before {
-    background-color: #03a84e;
+    background-color: #00baff;
     border-radius: 2px;
     bottom: 0;
     content: "";
@@ -7650,8 +7650,8 @@ table p {
 }
 
 .footer-area .social-icons a:hover {
-    border-color: #03a84e;
-    background-color: #03a84e;
+    border-color: #00baff;
+    background-color: #00baff;
 }
 
 .footer-area .nav-menu {
@@ -7687,11 +7687,11 @@ table p {
 }
 
 .footer-area .nav-menu li a:hover {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .footer-top {
-    background-color: #03a84e;
+    background-color: #00baff;
     padding: 47px 0 43px;
 }
 
@@ -7840,8 +7840,8 @@ table p {
 }
 
 .footer-newsletter-form form [type=submit]:hover {
-    background-color: #03a84e;
-    border-color: #03a84e;
+    background-color: #00baff;
+    border-color: #00baff;
     color: #fff;
 }
 
@@ -7971,7 +7971,7 @@ table p {
 }
 
 .footer-bottom .copyright a {
-    color: #03a84e;
+    color: #00baff;
 }
 
 .footer-bottom .copyright a:hover {
@@ -7979,7 +7979,7 @@ table p {
 }
 
 .footer-bottom .copyright i {
-    color: #03a84e;
+    color: #00baff;
     font-size: 16px;
     vertical-align: 0px;
     margin: 0;
